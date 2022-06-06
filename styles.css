@@ -1,0 +1,30 @@
+body {
+    background: #000033;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: verdana;
+}
+
+#timer {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 120%;
+    text-shadow: 0 0 20px #fff, 0 0 30px #f22951, 0 0 40px #f22951, 0 0 50px #f22951, 0 0 60px #f22951, 0 0 70px #f22951, 0 0 80px #f22951;
+}
+
+span {
+    color:#f08898;
+}
+
+.ninety {
+    font-size: 90%;
+}
+
+.eighty {
+    font-size: 80%;
+}
+
+
